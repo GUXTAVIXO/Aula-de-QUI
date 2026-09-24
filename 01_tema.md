@@ -25,18 +25,19 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 - Tema amplo: `[Impactos Da IA]`
 - Objeto estudado: `[IA]`
 - Contexto ou aplicação: `[Sitema de Saúde]`
-- Aspecto que será analisado: `[Praticidade e Padro]`
-- O que ficará fora do estudo: `[preencher]`
+- Aspecto que será analisado: `[Como a IA pode contribuir para eficiencia do sistema de saúde]`
+- O que ficará fora do estudo: `[Termos Técnicos osbre medicina]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[Este tema é muito importante pois possuimos um sistema unico de saude defasado de processos eficientes.
+Com a IA seria possivel fazer analises de dados massivos em instantes, fazendo com que processos repetitivos e analise de padroes existentes possam agilizar e diminuir filas de atendimento em hospitais.]`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Parcialmente]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim]`
 
 ## Produto da etapa
 
@@ -44,9 +45,9 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
+- [x] O tema é específico.
+- [x] O tema é relevante.
+- [x] O tema é viável.
 - [ ] O recorte está claro.
 - [ ] O tema foi validado pelo professor.
 
@@ -54,4 +55,5 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[ João Pedro Ribeiro Otreira]` | `[Pesquisa]` | 
+| `[Gustavo santos de Oliveira `| `[Pesquisa]` | 
