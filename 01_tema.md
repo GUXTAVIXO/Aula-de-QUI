@@ -23,8 +23,8 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Do tema amplo ao específico
 
 - Tema amplo: `[Impactos Da IA]`
-- Objeto estudado: `[IA]`
-- Contexto ou aplicação: `[Sitema de Saúde]`
+- Objeto estudado: `[Sistema de Saúde]`
+- Contexto ou aplicação: `[Otimizaçao de porcessos e na formulação de diagnosticos mais precisos.]`
 - Aspecto que será analisado: `[Como a IA pode contribuir para eficiencia do sistema de saúde]`
 - O que ficará fora do estudo: `[Termos Técnicos osbre medicina]`
 
@@ -35,7 +35,7 @@ Com a IA seria possivel fazer analises de dados massivos em instantes, fazendo c
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Parcialmente]`
+- Há artigos científicos disponíveis? `[Sim]`
 - O tema pode ser estudado no prazo? `[Sim]`
 - O grupo possui acesso às fontes necessárias? `[Sim]`
 
