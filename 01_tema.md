@@ -7,25 +7,25 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[Bruno Agostinho de Souza/ Gustavo Santos de Oliveiera/ João Pedro Ribeiro Otreira / Lucas Aguiar dos Santos]`
+- Data: `[24/09/2026]`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Impacto Social]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[Impactos da IA no sistema de Saúde.]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
+- Tema amplo: `[Impactos Da IA]`
+- Objeto estudado: `[IA]`
+- Contexto ou aplicação: `[Sitema de Saúde]`
+- Aspecto que será analisado: `[Praticidade e Padro]`
 - O que ficará fora do estudo: `[preencher]`
 
 ### Justificativa
