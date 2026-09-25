@@ -14,7 +14,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[Como a IA pode ser inserida nos sistema de Saúde.]`
+- O que se deseja descobrir ou compreender? `[Como a IA pode ser inserida nos sistema de Saúde?.]`
 - Qual é o objeto da pergunta? `[Sistema de Saúde]`
 - Qual é o contexto ou recorte? `[Suas possiveis aplicaçoes nas areas de diagnostico, pesquisa e interface de provedores. ]`
 - A pergunta pode ser respondida por artigos científicos? `[Sim. Pois tem artigos disponibilizados na internet que relatam o uso atual da IA nos sistemas médicos]`
