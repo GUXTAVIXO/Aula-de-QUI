@@ -6,15 +6,15 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `[Acurácia diagnóstica, otimização de fluxos de trabalho e suporte à decisão clínica (Aumento Cognitivo Médico).]`
+2. `[Governança de dados, privacidade, riscos regulatórios (LGPD) e soberania tecnológica.]`
+3. `[Vieses algorítmicos, "burrice artificial", explicabilidade (Explainable AI) e autonomia da decisão humana.]`
 
 ## Matriz de síntese
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`[Eixo]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
 
